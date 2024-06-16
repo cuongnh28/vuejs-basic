@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Chevy",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Peter",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bently",
+        "price": 12000,
+        "year": 2016,
+        "contact": {
+            "dealer": "Peter",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ran Rover",
+        "price": 6000,
+        "year": 2009,
+        "contact": {
+            "dealer": "Lisa",
+            "number": "222-222-333"
+        }
+    },
+    {
+        "id": 4,
+        "name": "BMW",
+        "price": 15000,
+        "year": 2010,
+        "contact": {
+            "dealer": "Lani",
+            "number": "333-666-555"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Huyndai",
+        "price": 28000,
+        "year": 2008,
+        "contact": {
+            "dealer": "Hailey",
+            "number": "777-444-666"
+        }
+    }
+]

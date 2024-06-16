@@ -2,7 +2,7 @@
 import { ref } from "vue";
 
 const showModal = ref(false);
-const newNote = ref("hihi")
+const newNote = ref("")
 const errorMessage = ref("")
 const notes = ref([])
 
